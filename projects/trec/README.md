@@ -25,16 +25,23 @@ The legacy application that you need to interface with is called *trec_eval*. It
 ###Researchers (username, display_name, organization)
 
 ASU, Alpha Team, AS University
+
 CK, Chaos and Kontrol, CK university
+
 HK, HongKongIR,  HK University
+
 ICT, ICTer, University of ICT
+
 RIM, Jobbers, Royal Insitute of Mayhem
 
 Not all fields are included, add passwords, emails, etc, as required.
 
 ### Track (title, track_url, description, genre)
+
 Robust2004, http://trec.nist.gov/data/t13_robust.html, News Retrieval, News
+
 Robust2005, http://trec.nist.gov/data/t14_robust.html, News Retrieval, News
+
 MillionQuery, http://ciir.cs.umass.edu/research/million/, Million Query Track, Web
 
 
