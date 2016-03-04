@@ -32,7 +32,7 @@ HK, HongKongIR,  HK University
 
 ICT, ICTer, University of ICT
 
-RIM, Jobbers, Royal Insitute of Mayhem
+RIM, IRJobs, Royal Insitute of Mayhem
 
 Not all fields are included, add passwords, emails, etc, as required.
 
