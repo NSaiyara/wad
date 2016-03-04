@@ -44,6 +44,28 @@ Robust2005, http://trec.nist.gov/data/t14_robust.html, News Retrieval, News
 
 MillionQuery, http://ciir.cs.umass.edu/research/million/, Million Query Track, Web
 
+Terabyte, http://www-nlpir.nist.gov/projects/terabyte/ , Terabyte Web Track, Web
+
+APNews,, News Retrieval Track, News
+
+
+Different genres include: News, Web, Blog, Medical and Legal
+
+
+### Task
+
+Robust2005, Ad Hoc Topic Retrieval,http://trec.nist.gov/data/t14_robust.html, For each topic find all the relevant documents, 2005, robust/aq.trec2005.qrels
+
+Web2005, Ad Hoc Topic Retrieval,http://www-nlpir.nist.gov/projects/terabyte/, Find all the relevant web pages, 2005, web/dg.trec.qrels
+
+APNews, Ad Hoc Topic Retrieval,, Find all the relevant news articles, 2001, news/ap.trec.qrels
+
+
+
+
+
+
+
 
 
 
